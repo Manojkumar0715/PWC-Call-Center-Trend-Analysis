@@ -43,8 +43,20 @@ From Claire’s mail, her KPIs includes (but not limited to):
 - I started by importing my data from Excel into PowerBi, however, instead of loading my data directly for visualization, I transform the data by loading it into the power query editor for cleaning.
 
 - One of the reasons why we do data cleaning is to remove incomplete data. However, looking at my data, the incomplete data (Null) have values they represent i.e. they are related to either calls that are not answered (N) or calls that the agents are not able to resolve, hence, removing those data will limited the accuracy of my data and in turn the credibility of my analysis.
+- 
+### Analysis & Insight
+
+- The call center has 8 agents in total. With **Jim** having the highest total answered calls **536** and **stewart** with the lowest at **477**.
+
+- From the total of **5000(100%)** calls that came in, the agents were able to **answered 4054(81%)** calls indicating that **946(19%)** were **abandoned**.
+  
+- Average speed of answered call is **57.5 sec**.
+
+- In **January** month Recieved more calls compared to rest months.
+
+  
 ## Overall Visualization.
 
 <p align="center">
-    <img src='' height="400">
+    <img src='https://github.com/Manojkumar0715/PWC-Call-Center-Trend-Analysis/blob/main/Call%20Center%20Trend%20Analysis.png' height="400">
 </p>
