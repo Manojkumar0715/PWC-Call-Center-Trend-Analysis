@@ -43,3 +43,8 @@ From Claire’s mail, her KPIs includes (but not limited to):
 - I started by importing my data from Excel into PowerBi, however, instead of loading my data directly for visualization, I transform the data by loading it into the power query editor for cleaning.
 
 - One of the reasons why we do data cleaning is to remove incomplete data. However, looking at my data, the incomplete data (Null) have values they represent i.e. they are related to either calls that are not answered (N) or calls that the agents are not able to resolve, hence, removing those data will limited the accuracy of my data and in turn the credibility of my analysis.
+## Overall Visualization.
+
+<p align="center">
+    <img src='' height="400">
+</p>
